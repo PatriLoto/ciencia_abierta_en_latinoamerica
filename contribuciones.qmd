@@ -12,7 +12,7 @@ Algunas recomendaciones para iniciar tu colaboración con el proyecto:
 
 -   Familiarízate con el objetivo del proyecto a través de la declaración de visión.
 
--   Lee el Open Canvas y la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos, workshops o cualquier contenido de ciencia abierta en español, actualizaciones de links, actualización del sitio web, entre otros.
+-   Lee el Open Canvas, la hoja de ruta y elije tareas u objetivos del proyecto con los que te gustaría contribuir; por ejemplo, documentación, recopilación de información sobre recursos, workshops o cualquier contenido de ciencia abierta en español, actualización del sitio web, entre otros.
 
 -   Se alienta a los colaboradores a compartir ideas, dar y recibir comentarios y trabajar juntos para lograr los objetivos del proyecto.
 
@@ -24,7 +24,7 @@ Una vez que sepas en qué aspecto del proyecto te gustaría generar tu aporte, p
 
 -   Añade un nuevo [issue](https://github.com/JFormoso/Comunidad-Abierta-LATAM/issues) con tus sugerencias.
 
-Próximamente compartiremos la posibilidad de sumar recursos de ciencia abierta que estén en español al repositorio mediante un sencillo formulario. Los recursos que podrás aportar son:
+Próximamente compartiremos la posibilidad de sumar recursos al repositorio mediante un sencillo formulario. Los recursos que podrás aportar son:
 
 -   Talleres o workshops gratuitos
 
@@ -34,6 +34,6 @@ Próximamente compartiremos la posibilidad de sumar recursos de ciencia abierta 
 
 -   Organizaciones sin fines de lucro
 
--   Oportunidades de fianciación
+-   Oportunidades de financiamiento
 
 -   Material educativo
